@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+}
+
+header a {
+text-decoration: none;
+color: #2F28F0;
+background-color: #E8ABF1;
+padding: 2px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #29EF37;
+    padding: 3px;
+}
+
+nav a {
+    text-decoration: none;
+    color: navy
+}
+h1 {
+display: flex;
+justify-content: center;
+color: darkolivegreen
+}
